@@ -1,15 +1,10 @@
-#moviePoster {
-  /* max-width: 50%;
-  max-height: 50%; */
-}
-
 .container {
     text-align: center;
-    background: url("http://arthuspictures.com/wp-content/uploads/2014/07/image-visuel.jpg");
-     background-repeat: no-repeat;
-     background-attachment: fixed;
-     max-height: 50px;
-     overflow: auto;
+    background: url("../../images/background.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    max-height: 50px;
+    overflow: auto;
 
 }
 
@@ -47,5 +42,5 @@
     margin-bottom: 0 !important;
     border-radius: 25px;
     background: url("https://t3.ftcdn.net/jpg/01/50/02/58/240_F_150025823_0rxPftXVTDeFvuwRD166mUqVDcJaeNYV.jpg");
-    
+
 }
